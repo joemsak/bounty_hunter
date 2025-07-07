@@ -71,7 +71,7 @@ gem "bcrypt", "~> 3.1.20"
 
 gem "tailwindcss-ruby", "~> 4.0.17"
 
-gem "tailwindcss-rails", "~> 4.2.1"
+gem "tailwindcss-rails", "~> 4.3.0"
 
 gem "foreman", "~> 0.88.1", group: :development
 
