@@ -75,7 +75,7 @@ gem "tailwindcss-rails", "~> 4.2.1"
 
 gem "foreman", "~> 0.88.1", group: :development
 
-gem "pg", "~> 1.5.9"
+gem "pg", "~> 1.6.2"
 
 gem "ruby_ui", "~> 1.0", group: :development, require: false
 
